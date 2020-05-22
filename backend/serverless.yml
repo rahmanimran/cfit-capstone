@@ -18,12 +18,9 @@ provider:
   region: ${opt:region, 'us-east-2'}
 
   environment:
-    TODO_TABLE: Todos3-${self:provider.stage}
+    TODO_TABLE: Todos14-${self:provider.stage}
     S3_BUCKET: rahmanimran-cfit-serverless-imran07258-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 300
-  tracing:
-    apiGateway: true
-    lambda: true
   
   
   custom:
