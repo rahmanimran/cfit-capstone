@@ -6,7 +6,7 @@ This is the 6th Project of Udacity Nanodegree Program. It's the Capstone Project
 - The client is built on React and deployed in AWS S3 
 
 **GitHub Repository Link:**  
-https://github.com/rahmanimran/cfit-capstone
+https://github.com/rahmanimran/udacity-capstone-project
 
 **Application Link:**  
 http://imran-todo.s3-website.us-east-2.amazonaws.com/
